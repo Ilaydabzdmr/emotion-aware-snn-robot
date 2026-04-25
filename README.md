@@ -118,5 +118,7 @@ This project was developed as an experimental prototype and may require hardware
 
 - More complex neuron models
 
+---
+
 ## 📄 LICENSE
 MIT License
