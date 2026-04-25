@@ -81,6 +81,13 @@ pip install -r requirements.txt
 
 ---
 
+## ⚠️ NOTE
+
+This project was developed as an experimental prototype and may require hardware setup (Arduino + Raspberry Pi) to run properly.
+
+---
+
+
 ## 🧠 HOW IT WORKS
 
 - Speed of approach is calculated from sensor data
